@@ -1,4 +1,4 @@
-# Extension
+# Extention
 # Name:
 BMI Calulator
 # Descripation: 
